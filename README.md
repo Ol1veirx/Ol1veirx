@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Liedson Oliveira!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando tecnologias front-end
+- ⚙️ Hoje trabalho com back-end
+- ♨️ Estou estudando tecnologias back-end
 <div>
   <a href="">
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=Ol1veirx&show_icons=true&theme=dracula">
