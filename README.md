@@ -26,19 +26,26 @@
  </div>
  
  ### Main skills:
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-172026?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-172026?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-172026?style=for-the-badge&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-172026?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-172026?style=for-the-badge&logo=bootstrap)
 
+###Databases:
+![MySQL](https://img.shields.io/badge/-MySQL-172026?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-172026?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
+###Tools:
+![VS Code](https://img.shields.io/badge/-VS_Code-172026?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-172026?style=for-the-badge&logo=visual-studio)
+![Insomnia](https://img.shields.io/badge/-Insomnia-172026?style=for-the-badge&logo=insomnia)
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-172026?style=for-the-badge&logo=.net)
+![Angular](https://img.shields.io/badge/-Angular-172026?style=for-the-badge&logo=angular)
+![Docker](https://img.shields.io/badge/-Docker-172026?style=for-the-badge&logo=docker)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
