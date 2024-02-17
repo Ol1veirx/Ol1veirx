@@ -29,15 +29,15 @@
 ![C#](https://img.shields.io/badge/-C%23-172026?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-172026?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-172026?style=for-the-badge&logo=.net)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-172026?style=for-the-badge&logo=javascript&labelColor=172026)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-172026?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-172026?style=for-the-badge&logo=bootstrap)
 
-###Databases:
+### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-172026?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-172026?style=for-the-badge&logo=mongodb&logoColor=white)
 
-###Tools:
+### Tools:
 ![VS Code](https://img.shields.io/badge/-VS_Code-172026?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-172026?style=for-the-badge&logo=visual-studio)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-172026?style=for-the-badge&logo=insomnia)
@@ -49,7 +49,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ol1veirx}/count.svg" /></p> 
 <br>
 </div>
 
