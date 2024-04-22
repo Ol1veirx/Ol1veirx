@@ -36,8 +36,6 @@
 
 <img align="left" height="80" width="80" src="https://github.com/Ol1veirx/Ol1veirx/assets/144238601/e45c110c-395e-4c33-b067-262e58cb267a">
 
-<img align="left" height="80" width="80" src="https://github.com/Ol1veirx/Ol1veirx/assets/144238601/b7707938-deae-48dc-a34c-817263c2b502">
-
 <img align="left"  height="80" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2a52f515-32c0-419a-8550-d196743d93dd">
@@ -48,8 +46,6 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/Ol1veirx/Ol1veirx/assets/144238601/b0093d77-0498-49a7-9742-b7b2a1ad90b3">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
 
 <img  align="left"  height="80" width="80" src="https://github.com/Ol1veirx/Ol1veirx/assets/144238601/95ada31c-aada-46a4-ae63-8813f99f3f81">
@@ -58,6 +54,7 @@
 
 <br>
 <br> 
+<br>
 <br>
 <br>
 <br>
