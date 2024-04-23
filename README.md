@@ -31,7 +31,7 @@
 </div>
 
 
-### Main skills:
+## Main skills:
 <div align="left"> 
 
 <img align="left" height="80" width="80" src="https://github.com/Ol1veirx/Ol1veirx/assets/144238601/e45c110c-395e-4c33-b067-262e58cb267a">
@@ -59,7 +59,7 @@
 <br>
 <br>
 
-<h2 align="left"> Studying in this moment: </h2>
+## Studying in this moment: 
 
 <div align="left"> 
 
